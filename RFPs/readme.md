@@ -5,4 +5,5 @@ leak data about IT systems of the city of chicago. You may find this
 information helpful in drafting FIOA requests.
 
 | File | Description |
-| TODO | TODO |
+|------|-------------|
+| TODO | TODO        |
